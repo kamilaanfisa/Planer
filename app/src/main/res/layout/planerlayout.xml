@@ -100,6 +100,10 @@
         android:text="Надо"
         android:textAlignment="center"
         android:textColor="#43457E"
-        tools:layout_editor_absoluteX="117dp"
-        tools:layout_editor_absoluteY="296dp" />
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.234"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.403" />
 </androidx.constraintlayout.widget.ConstraintLayout>
