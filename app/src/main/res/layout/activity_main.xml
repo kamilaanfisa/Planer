@@ -15,10 +15,10 @@
         android:src="@drawable/loader"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.713"
+        app:layout_constraintHorizontal_bias="0.679"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.469" />
+        app:layout_constraintVertical_bias="0.525" />
 
     <ImageView
         android:id="@+id/imageView2"
@@ -29,7 +29,7 @@
         app:layout_constraintHorizontal_bias="1.0"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.539"
+        app:layout_constraintVertical_bias="0.595"
         app:srcCompat="@drawable/loadingline" />
 
     <ImageView
