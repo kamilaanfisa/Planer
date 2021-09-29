@@ -67,10 +67,11 @@
         app:layout_constraintVertical_bias="0.953" />
 
     <Button
-        android:id="@+id/button10"
+        android:id="@+id/btnAdd"
         android:layout_width="58dp"
         android:layout_height="51dp"
         android:background="@drawable/circleadd"
+        android:onClick="btnAddClick"
         app:backgroundTint="@color/purple_dark"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
@@ -97,7 +98,6 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:background="@drawable/zametka"
-        android:text="Надо"
         android:textAlignment="center"
         android:textColor="#43457E"
         app:layout_constraintBottom_toBottomOf="parent"
